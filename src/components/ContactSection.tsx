@@ -93,7 +93,7 @@ const ContactSection = () => {
                   </svg>
                 </a>
                 <a 
-                  href="https://www.facebook.com/kingduke" 
+                  href="https://web.facebook.com/king.duke.722093?mibextid=ZbWKwL&_rdc=1&_rdr"              
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="w-10 h-10 flex items-center justify-center rounded-full bg-royal text-white hover:bg-gold transition-colors"
